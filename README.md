@@ -3,6 +3,7 @@
 - 🌱 Currently, I’m learning C#, Prometheus, K8s, ML, and various modern technologies
 - 💞️ I’m seeking collaboration opportunities on full-stack web development, iOS applications, microservices, and embedded programming applications
 - 👀 For my background, I earned both an M.S. and a B.S. in Electrical Engineering. I've worked in Raytheon's Radar Department, where I implemented embedded software programs for establishing data communication and executed Radar and Digital Signal Processing (DSP) algorithms. Additionally, I've developed full-stack web applications at Revacomm company.
+- 👀 When I was at UCLA, I was a member of both IEEE-Eta Kappa Nu (IEEE-HKN), the honor society of IEEE, and IEEE.
 - 📫 Please contact me via alberthtran@protonmail.com
 
 #### Shared Projects:
