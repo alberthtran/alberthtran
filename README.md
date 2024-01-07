@@ -18,7 +18,6 @@
 #### Upcoming Web Programming Projects to Share:
 1. Simple website created using the Hugo framework and incorporating a search engine with Javascript, LUNR.js, and JSON.
 2. Basic website integrating Vue.js, Vuetify, and Grapes.js for a Content Management System application.
-3. Demonstrative website illustrating OAuth2PKCE (OAuth2 workflow with Proof Key Code Exchange)
 
 
   
